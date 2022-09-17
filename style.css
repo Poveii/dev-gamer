@@ -1,0 +1,89 @@
+/* ====== GLOBAL ====== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-image: url(./assets/background.jpg);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+
+  background-color: #121214;
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+}
+
+/* ====== MAIN ====== */
+main {
+  max-width: 580px;
+  width: 90%;
+  margin: auto;
+
+  display: grid;
+  row-gap: 24px;
+  margin-top: 28px;
+}
+
+/* ====== SECTION ====== */
+section {
+  background-image: linear-gradient(
+    90deg,
+    #9572fc 0%,
+    #43e7ad 50%,
+    #e2d45c 100%
+  );
+  color: #ffffff;
+
+  padding-top: 4px;
+  border-radius: 10px;
+}
+
+section div {
+  background-color: #2a2634;
+
+  padding: 24px 32px 32px;
+  border-radius: 8px;
+}
+
+section div h2 {
+  letter-spacing: -0.47px;
+}
+
+section div p {
+  color: #a1a1aa;
+
+  letter-spacing: -0.18px;
+}
+
+section div h2,
+section div p {
+  line-height: 160%;
+}
+
+section div ul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 16px;
+
+  margin-top: 24px;
+}
+
+/* ====== LISTS ====== */
+.games-list li a img {
+  width: 90px;
+  border-radius: 8px;
+}
+
+.channels-list li a img {
+  width: 70px;
+  border-radius: 50%;
+}
