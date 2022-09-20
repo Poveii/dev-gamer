@@ -62,7 +62,7 @@ header div {
   padding: 4px;
 
   transition: transform 0.3s;
-  animation: fromTop 0.7s 0.2s forwards;
+  animation: fromTop 0.7s 0.2s backwards;
 }
 
 header div:hover {
