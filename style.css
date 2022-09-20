@@ -9,6 +9,10 @@ ul {
   list-style: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-image: url(./assets/background.jpg);
   background-position: top center;
@@ -21,6 +25,15 @@ body {
 
 body * {
   font-family: "Inter", sans-serif;
+}
+
+/* ====== SCROLLBAR ====== */
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3f3c48;
 }
 
 /* ====== HEADER ====== */
