@@ -92,7 +92,7 @@ section {
 }
 
 section:nth-child(1) {
-  animation-delay: 0;
+  animation-delay: 0s;
 }
 
 section:nth-child(2) {
@@ -177,4 +177,14 @@ section div ul li:hover {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* ====== SWIPER ====== */
+section#my-games {
+  overflow: hidden;
+}
+
+section div ul.swiper-wrapper {
+  flex-wrap: nowrap;
+  column-gap: 0;
 }
