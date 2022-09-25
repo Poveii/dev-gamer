@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Um gif mostrando o site Dev Gamer" />
+  <img src="https://user-images.githubusercontent.com/79858234/192123788-7639924d-95c4-4250-beb2-3d399a14983b.gif" alt="Um gif mostrando o site Dev Gamer" />
 </div>
 
 # Dev Gamer
