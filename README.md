@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/79858234/192123788-7639924d-95c4-4250-beb2-3d399a14983b.gif" alt="Um gif mostrando o site Dev Gamer" />
+  <img src="https://user-images.githubusercontent.com/79858234/192123788-7639924d-95c4-4250-beb2-3d399a14983b.gif" alt="Um gif mostrando o site Game Hub" />
 </div>
 
-# Dev Gamer
+# Game Hub
+
 👨‍💻 🎮 Meus games e streamers favoritos, site feito durante a NLW Edição 09 - eSports!
 
-<strong>Veja o site <a href="https://poveii.github.io/dev-gamer/" target="_blank" rel="noopener norefferrer">aqui</a></strong>
+<strong>Veja o site <a href="https://poveii.github.io/game-hub/" target="_blank" rel="noopener norefferrer">aqui</a></strong>
 
 ## Layout
+
 - <strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Ícone do Figma colorido" style="width: 14px;" /> 
       Projeto do Figma: <a href="https://www.figma.com/community/file/1150897317533332617" target="_blank" rel="noopener norefferrer">aqui</a>
@@ -19,6 +21,7 @@
   </p>
 
 ## Tecnologias
+
 - <strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Ícone do HTML5" style="width: 18px;" /> 
       HTML
@@ -37,6 +40,7 @@
   </strong>
 
 ## Funcionalidades
+
 - [ ] Colocar minhas redes sociais de verdade, como LinkedIn e Github.
 - [ ] Aleatoriamente trocar a primeira section por outra section tendo a ver com o tema de games.
 
